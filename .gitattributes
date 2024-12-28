@@ -1,1 +1,2 @@
 *chains* filter=lfs diff=lfs merge=lfs -text
+55Cnc_5pGP_MCMC_chains_alpha_3000000000_newamp.txt filter=lfs diff=lfs merge=lfs -text
