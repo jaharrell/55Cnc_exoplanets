@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 55Cnc_exoplanets
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Justin
+    family-names: Harrell
+    email: harrell@udel.edu
+    affiliation: University of Delaware
+    orcid: 'https://orcid.org/0000-0001-6771-4583'
+repository-code: 'https://github.com/jaharrell/55Cnc_exoplanets'
+abstract: >-
+  This repository includes 3 Jupyter notebooks and all text
+  files needed to reproduce the numbers and figures given in
+  "High-Pass Filtering and Gaussian Process Regularization:
+  Stellar Activity Characterization Techniques Applied to
+  the 55 Cnc Planetary System".
+keywords:
+  - exoplanets
+  - gaussian-processes
+  - radial-velocities
+  - stellar-activity
+  - frequency-analysis
+license: GPL-3.0
